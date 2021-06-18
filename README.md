@@ -16,8 +16,14 @@
 
 <h2>2 - Conhecendo o Ecossistema Spring Boot e Criando um Microsserviço de Catálogo de Produtos</h2>
   * Spring foi criado para resolver um problema comum no desenvolvimento de software que é interdependência entre objetos;
+  * O Spring faz a inversão de controle, ele pega para ele o controle sobre as intâncias de objeto do sistema;
   * 
-
+<div align="center"> 
+  <img src="./assets/micro06.png"/>
+  <br/>
+  <img src="./assets/micro07.jpg"/>
+  <br/>
+</div>
 
 <h2>3 - </h2>
 <h2>4 - </h2>
