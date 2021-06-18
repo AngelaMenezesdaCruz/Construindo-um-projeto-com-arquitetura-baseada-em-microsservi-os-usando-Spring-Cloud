@@ -1,5 +1,4 @@
-# dio-construindo-microservicos-com-spring-cloud
-DIO - Construindo um ecossistema com arquitetura baseada em Microsserviços usando Spring Cloud
+<h1 align="center">DIO - Construindo um ecossistema com arquitetura baseada em Microsserviços usando Spring Cloud</h1>
 
 <h2>Introdução à Arquiteturas de Software: do Monolito ao Microsserviço</h2>
 
