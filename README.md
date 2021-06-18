@@ -3,15 +3,15 @@
 <h2>1 - Introdução à Arquiteturas de Software: do Monolito ao Microsserviço</h2>
 
 <div align="center" > 
-  <img src="./assets/micro01.png" width="700px"/>
+  <img src="./assets/micro01.png" width="800px"/>
   <br/>
-  <img src="./assets/micro02.png"/>
+  <img src="./assets/micro02.png" width="800px"/>
   <br/>
-  <img src="./assets/micro03.png"/>
+  <img src="./assets/micro03.png" width="800px"/>
   <br/>
-  <img src="./assets/micro04.png"/>
+  <img src="./assets/micro04.png" width="800px"/>
   <br/>
-  <img src="./assets/micro05.png"/>
+  <img src="./assets/micro05.png" width="800px"/>
 </div>
 
 <h2>2 - Conhecendo o Ecossistema Spring Boot e Criando um Microsserviço de Catálogo de Produtos</h2>
@@ -23,9 +23,9 @@
   <br/>
 
 <div align="center"> 
-  <img src="./assets/micro06.png"/>
+  <img src="./assets/micro06.png" width="800px"/>
   <br/>
-  <img src="./assets/micro07.jpg"/>
+  <img src="./assets/micro07.jpg" width="800px"/>
   <br/>
 </div>
 
