@@ -2,7 +2,7 @@
 
 <h2>1 - Introdução à Arquiteturas de Software: do Monolito ao Microsserviço</h2>
 
-<div align="center" width="600px"> 
+<div align="center" width="400px"> 
   <img src="./assets/micro01.png"/>
   <br/>
   <img src="./assets/micro02.png"/>
